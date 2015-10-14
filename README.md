@@ -7,7 +7,7 @@ Development of a web platform regarding the fulfillment of the master's course
 
 Detailed description of the application is provided by "reportLims.pdf".
 
-The folder "ColonCancer" includes the source code.
+The folder "src" includes the source code.
 
 There is no host available. However, screenshots of the application can be found at
 https://drive.google.com/folderview?id=0B4mMtieYoaNDfm96MFBHYWxCa05hMVBlbEx0ZUt4bGRobm1Fd2NzZWVZVWF2ck9nelp5azQ&usp=sharing .
