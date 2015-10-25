@@ -2,7 +2,7 @@
 
 ## Laboratory Information Management Systems
 
-Development of a web platform regarding the fulfillment of the master's course 
+Development of a LIMS web platform regarding the fulfillment of the master's course 
 "LIMS" during the spring semester of 2015 at Uppsala University.
 
 Detailed description of the application is provided by "reportLims.pdf".
